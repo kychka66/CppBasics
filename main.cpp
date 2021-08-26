@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    int number;
+   /* int number;
     cout << " enter months" << " >  ";
     cin >> number;
     if (number < 1)
@@ -79,6 +79,70 @@ int main()
         if (number == 12)
             cout << " Autumn ";
     }
+    */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* int number1;
+    cout << "Enter the number >";
+    cin >> number;
+    if (number1 < 1)
+    {
+        cout << "Error. I stole your money";
+    } else if (number1 > 12)
+    {
+        cout << "Error. I stole your money";
+    }
+    switch (number1)
+    {
+        case 1:
+            cout << "January - winter";
+            break;
+        case 2:
+            cout << "February - winter";
+            break;
+        case 3:
+            cout << "March - Spring";
+            break;
+        case 4:
+            cout << "April - Spring";
+            break;
+        case 5:
+            cout << "May - Spring";
+            break;
+        case 6:
+            cout << "June - Summer";
+            break;
+        case 7:
+            cout << "July - Summer";
+            break;
+        case 8:
+            cout << "August - Summer";
+            break;
+        case 9:
+            cout << "September - Autumn";
+            break;
+        case 10:
+            cout << "October - Autumn";
+            break;
+        case 11:
+            cout << "November - Autumn";
+            break;
+        case 12:
+            cout << "December - Winter";
+            break;
+    }
+*/
     return 0;
 }
 
